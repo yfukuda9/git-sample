@@ -1,1 +1,1 @@
-## GitHub練習会
+# GitHub練習会
